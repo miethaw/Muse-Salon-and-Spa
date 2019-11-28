@@ -1,0 +1,5 @@
+export const textwhite = "#ffffff"
+export const bodyTitle = "#333333"
+export const bodySubTitle = "#9FD8FF"
+export const bodyText = "	#686868"
+export const buttonColor="#393E3B"

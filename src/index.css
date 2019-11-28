@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+nav ul{
+ padding: auto;
+ font-family: Cabin;
+}
+
+nav ul li{
+  display: inline-block;
+  padding: 8px 16px;
+ 
+
+}
+.navbar-nav{
+  float: left;
+}
+div{
+  font-family: Cabin;
+}
+/* h4{
+  font-family: Cabin;
+} */
