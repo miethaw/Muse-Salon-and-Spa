@@ -39,5 +39,4 @@ const Service_product_Info_Details =[
     {id:1, ImgUrl: "/images/service.jpg", Title: "SALON SERVICES", Text: "Talented, educated, and fashion-forward artists meet the unique needs of every client so you feel recharged and look runway-ready."},
     {id:2,  ImgUrl: "/images/salon2.jpeg", Title: "SPA SERVICES", Text: "Our skilled estheticians offer an array of refreshing treatments, leaving you feeling rejuvenated, restored, and relaxed."},
     {id:3,  ImgUrl: "/images/spa2.jpeg", Title: "PRODUCTS", Text: "We offer the very best in luxury beauty products for both hair and skin – all right here in the salon."},
-    {id:4, ImgUrl:"images/product4.jpeg", Title:"G.M. COLLIN", Text:"Founded in 1957 by a French dermatologist, G.M. Collin products are developed with one goal in mind – to offer high tech skin care solutions, that are deeply rooted in the brilliance of nature."}
 ]
